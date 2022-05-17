@@ -1,0 +1,70 @@
+<template>
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card card-default">
+                    <div class="card-header">Example Component</div>
+                    <div class="card-body">
+                            
+                           <form v-on:submit="submitPost()">
+                               <div class="form-group">
+                                <input type="text" v-model="posts.title" ref="posts.title" class="form-control" placeholder="title...">   
+                               </div>
+                               <div class="form-group">
+                                <input type="text" v-model="posts.alamat" ref="posts.alamat" class="form-control" placeholder="Masukan Alamat...">   
+                               </div>
+                               <div class="form-group">
+                                   <textarea class="form-control" v-model="posts.description" ref="posts.description" rows="5" placeholder="Description"></textarea>
+                               </div>
+                               <div class="form-group">
+                                    <router-link to="/" class="btn btn-warning float-right">Back</router-link>
+                                    <button class="btn btn-success">Submit</button>
+                               </div>
+                           </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</template>
+
+<script>
+import axios from 'axios';
+
+export default {
+  data:function() {
+    return {
+      posts: {
+        title:'',
+        description:'',
+        alamat:'',
+      },
+      errors: []
+    }
+  },
+  // Fetches posts when the component is created.
+  methods:{
+  submitPost() {
+      Pace.start();
+      axios.post('/posts', this.posts)
+      .then(response => {
+        Pace.stop();
+        alert('Data Telah Tersimpan')
+        console.log(response)
+        this.$router.push({path:'/'})
+        // JSON responses are automatically parsed.
+        this.posts = response.data
+
+      })
+        .catch(e => {
+        
+        this.errors.push(e)
+        })
+      }
+  }
+}
+</script>
