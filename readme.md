@@ -50,7 +50,7 @@ The composition that forms the basis for building this application is:
 
 <h4>Front End Side</h4>
 
-[![LinkFrontEnd](https://img.shields.io/badge/Link-ServerSideFolder-blue.svg)](https://github.com/suharyadi2112/Aplikasi-Tes-Karyawan/tree/main/resources/views/admin/dashboard)
+[![LinkFrontEnd](https://img.shields.io/badge/Link-ServerSideFolder-green.svg)](https://github.com/suharyadi2112/Aplikasi-Tes-Karyawan/tree/main/resources/views/admin/dashboard)
 
 <ol>
   <li>Built using HTML, CSS</li>
