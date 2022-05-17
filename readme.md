@@ -39,13 +39,19 @@ The new employee recruitment application is used to select prospective new emplo
 
 The composition that forms the basis for building this application is:
  
-Server Side
+<h4>Server Side</h4>
+
+[![LinkServerSide](https://img.shields.io/badge/Link-ServerSideFolder-blue.svg)](https://github.com/suharyadi2112/Aplikasi-Tes-Karyawan/tree/main/app/Http/Controllers)
+
 <ol>
   <li>The programming language is PHP</li>
   <li>Using Laravel 5.8 as php framework</li>
 </ol>
 
-Front End Side
+<h4>Front End Side</h4>
+
+[![LinkFrontEnd](https://img.shields.io/badge/Link-ServerSideFolder-blue.svg)](https://github.com/suharyadi2112/Aplikasi-Tes-Karyawan/tree/main/resources/views/admin/dashboard)
+
 <ol>
   <li>Built using HTML, CSS</li>
   <li>Javascript for data presentation</li>
