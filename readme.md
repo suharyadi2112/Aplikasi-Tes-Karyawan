@@ -27,12 +27,15 @@
 
 The folder above is some preview code that I wrote myself to see, because I didn't include the entire resource, for security reasons. I hope what I have attached is clear and can be taken into consideration. Thank You 😄
 
-The education staff application is a supporting application for company needs, features made according to existing requests and needs,
-in 1 application there are other applications in it that are connected to each other in 1 data.
+The new employee recruitment application is used to select prospective new employees who want to enter and become part of the company team, as for the features contained in the application, among others
 
 <ol>
-  <li>Job appraisal</li><li>Employment Assignment</li><li>Honorarium</li><li>Employee Leave</li><li>Academic Assignment Letter</li><li>Academic Invitation Letter</li><li>Staffing</li><li>Application Setup</li>
-</ol> 
+  <li>Data storage of candidate</li>
+  <li>Information starting from Personal Data</li>
+  <li>Work Experience</li>
+  <li>Aptitude Tests</li>
+  <li>DISC Test</li>
+</ol>
 
 The composition that forms the basis for building this application is:
  
@@ -58,9 +61,24 @@ Using https://colorlib.com/polygon/gentelella/ as template.
 # Some Screenshots
 
 <h3>Employee Recruitment Test&#x1F53D;</h3>
+<h4>Admin Dashboard&#x1F53D;</h4>
 
 Dashboard Candidate | Detail Candidate
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/105489642/168820909-af32b60e-f595-4ed5-b251-117db8716b65.jpg">  |  <img src="https://user-images.githubusercontent.com/105489642/168821061-2e770cac-e3f6-4fbe-b95d-c931e8ca840c.jpg">
+
+Dashboard Education | Dashboard Work Experience
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/105489642/168827397-6b2faf49-10de-4b27-bd9c-2c001c745619.jpg">  |  <img src="https://user-images.githubusercontent.com/105489642/168827474-02a8f900-7638-4c86-8503-f105f04bfb1b.jpg">
+
+Result Aptitude Test | Print Out DISC Test
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/105489642/168828205-4c9dc495-661c-48c2-880d-3a1a46fa5d9b.jpg">  |  <img src="https://user-images.githubusercontent.com/105489642/168828292-1d17259e-5689-4529-806e-b539dba6f7e4.jpg">
+
+<h4>Candidate Dashboard&#x1F53D;</h4>
+
+Starting Aptitude Test | Aptitude Test Running
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/105489642/168828786-16f767f5-652a-47fc-91dc-71603a45b440.jpg">  |  <img src="https://user-images.githubusercontent.com/105489642/168828860-d0f47273-c07b-497a-b705-fd2b24918641.jpg">
 
 and much more..
