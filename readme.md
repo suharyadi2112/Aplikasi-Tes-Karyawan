@@ -57,10 +57,10 @@ Using https://colorlib.com/polygon/gentelella/ as template.
 
 # Some Screenshots
 
-<h3>Cuti Pegawai (Leave of Absence)&#x1F53D;</h3>
+<h3>Employee Recruitment Test&#x1F53D;</h3>
 
-Dashboard Cuti             |  Add Period Cuti
+Dashboard Candidate | Detail Candidate
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/105489642/168763205-3b9c7958-bc9a-45c4-a81f-b9214af36824.jpg">  |  <img src="https://user-images.githubusercontent.com/105489642/168764589-3092f911-0423-4377-a4dd-a143f8c4ed2a.jpg">
+<img src="https://user-images.githubusercontent.com/105489642/168820909-af32b60e-f595-4ed5-b251-117db8716b65.jpg">  |  <img src="https://user-images.githubusercontent.com/105489642/168821061-2e770cac-e3f6-4fbe-b95d-c931e8ca840c.jpg">
 
 and much more..
