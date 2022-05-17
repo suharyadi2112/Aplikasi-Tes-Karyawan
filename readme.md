@@ -53,7 +53,7 @@ Databases
 Using MySQL Database and Navicat Management for database
 
 Templates
-Using https://adminlte.io/themes/v3/ as template.
+Using https://colorlib.com/polygon/gentelella/ as template.
 
 # Some Screenshots
 
