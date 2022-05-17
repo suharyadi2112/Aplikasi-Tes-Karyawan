@@ -81,4 +81,16 @@ Starting Aptitude Test | Aptitude Test Running
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/105489642/168828786-16f767f5-652a-47fc-91dc-71603a45b440.jpg">  |  <img src="https://user-images.githubusercontent.com/105489642/168828860-d0f47273-c07b-497a-b705-fd2b24918641.jpg">
 
+DISC Test Running
+:-------------------------: |
+<img src="https://user-images.githubusercontent.com/105489642/168829196-0fa6f872-e478-420f-a9db-1840a2945884.jpg"> |
+
+Personal Data Form | Education High School Data Form
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/105489642/168829659-8b6cbc2c-c47a-406b-a708-dcbe6c077fac.jpg">  |  <img src="https://user-images.githubusercontent.com/105489642/168829711-3385ec2b-843a-4842-bf34-fc562e3f7a83.jpg">
+
+Work Experience Form | Collage Data Form
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/105489642/168829962-070a12a2-f41a-4f3f-beb1-1d6395770ff8.jpg">  |  <img src="https://user-images.githubusercontent.com/105489642/168830020-5d4cac55-01cb-46a4-b165-0a728832650c.jpg">
+
 and much more..
